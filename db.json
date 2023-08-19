@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "SIBBEN/ LOBERGET",
+      "category": "Office Room",
+      "price": "578000",
+      "description": "<p>Anak Anda duduk dengan nyaman pada kursi meja ini - baik untuk mengerjakan pekerjaan rumah atau membuat karya seni dan kerajinan. Ketinggiannya mudah disesuaikan dan desain modern yang bersih cocok untuk semuanya.</p>",
+      "image1": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/544/1154436_PE886029_S4.webp",
+      "image2": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/544/1154437_PE886031_S4.webp",
+      "image3": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/544/1154438_PE886030_S4.webp",
+      "image4": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/265/0826517_PE776395_S4.webp",
+      "image5": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/515/1151599_PE884957_S4.webp"
+    },
+    {
+      "id": 2,
+      "name": "KURSI VISSLE",
+      "category": "Office Room",
+      "price": "1799000",
+      "description": "<p>Anda dapat duduk dengan nyaman karena ketinggian kursi dapat disesuaikan.</p><br/><p>Roda pengaman memiliki mekanisme rem sensitif tekanan yang menjaga kursi tetap di tempat saat Anda berdiri dan bergerak lagi saat duduk.</p><br/><p>Roda dilapisi karet agar dapat berjalan dengan lancar di jenis lantai apa saja.</p>",
+      "image1": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/247/0724705_PE734587_S4.webp",
+      "image2": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/239/0923961_PE788457_S4.webp",
+      "image3": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/547/0854770_PE563358_S4.webp",
+      "image4": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/547/0854766_PE563145_S4.webp",
+      "image5": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/041/0404136_PE566255_S4.webp"
+    },
+    {
+      "id": 3,
+      "name": "KURSI PUTAR VISSLE",
+      "category": "Office Room",
+      "price": "599000",
+      "description": "<p>Anda dapat duduk dengan nyaman karena ketinggian kursi dapat disesuaikan.</p><br /><p>Roda pengaman memiliki mekanisme rem sensitif tekanan yang menjaga kursi tetap di tempat saat Anda berdiri dan bergerak lagi saat duduk.</p>",
+      "image1": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/950/0595068_PE675939_S4.webp",
+      "image2": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/531/0853121_PE675940_S4.webp",
+      "image3": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/950/0595067_PE675942_S4.webp",
+      "image4": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/950/0595066_PE675941_S4.webp",
+      "image5": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/commons/1675678608_90392659_S4.webp"
+    },
+    {
+      "id": 2,
+      "name": "KURSI MILLBERGET",
+      "category": "Office Room",
+      "price": "1799000",
+      "description": "<p>Kursi putar MILLBERGET menawarkan kenyamanan dan fungsi saat Anda bekerja di meja. Tampilannya elegan, lapang, dan mudah berbaur dengan dekorasi ruang keluarga atau kamar tidur Anda.</p>",
+      "image1": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/201/1020143_PE831800_S4.webp",
+      "image2": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/259/1025968_PE834263_S4.webp",
+      "image3": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/259/1025969_PE834264_S4.webp",
+      "image4": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/259/1025967_PE834262_S4.webp",
+      "image5": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/259/1025970_PE834265_S4.webp"
+    }
+  ]
+}
